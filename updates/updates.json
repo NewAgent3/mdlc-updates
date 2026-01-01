@@ -1,23 +1,23 @@
 {
   "linux": {
-    "version": "a6f99d80d32b8946ad4bb706dc253d6bde067a5243c923aac0cbd5e3e61b6d95",
-    "pretty_version": "2.2",
+    "version": "22c362140df30833b536d33df55afc0d828fe2bcc85981801c569e00062f1a77",
+    "pretty_version": "2.2.1",
     "renpy_version": "8.5.0.25111603",
     "rpu_url": "rpu/linux.files.rpu",
-    "rpu_digest": "56ba4f9ecc79d9aab6f73cd772e2516b6bf0bc222b841b2bf6e0a08774a62225"
+    "rpu_digest": "cb2cec9c47d1416734f73d4aa96c5d943e3f5e139d9e90f6cdf4e38ebe4ab606"
   },
   "mac": {
-    "version": "f05f13595a6926143b090d7d446d6299cfbc0ab9d7a8dd2727236e26574f9b2f",
-    "pretty_version": "2.2",
+    "version": "1cdd24bf78ed119dc50476eed78ce6095ad2bca518307aa68218b569613b1931",
+    "pretty_version": "2.2.1",
     "renpy_version": "8.5.0.25111603",
     "rpu_url": "rpu/mac.files.rpu",
-    "rpu_digest": "6f5cec8c9bb576739cf838c9257f431a104fb39508b679500c2aaf51421a7510"
+    "rpu_digest": "03f27ebb7f32b77d89cde41b681b2e986690a38798422c159c5a334aee84070a"
   },
   "win": {
-    "version": "49c655023650c79b4ea42a2a531f4f0b97b9d455fe865512353ae74d06197523",
-    "pretty_version": "2.2",
+    "version": "76bcb0aed664d0ef3905d3a528b1085169bb6484c555f1cedf672879875174b5",
+    "pretty_version": "2.2.1",
     "renpy_version": "8.5.0.25111603",
     "rpu_url": "rpu/win.files.rpu",
-    "rpu_digest": "caf35450c063645ad6ee564f8c4e489b0bb574691aa4c432106ead721db5d5ed"
+    "rpu_digest": "45bfe0a646807469e4f7f6ea8ee25feff9f82135d98ff04e196e52bdd8123643"
   }
 }
